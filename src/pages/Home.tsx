@@ -1,13 +1,6 @@
-import * as React from "react"
-import {
-  Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
-} from "@chakra-ui/react"
-import { ColorModeSwitcher } from "../components/ColorModeSwitcher"
+import * as React from 'react';
+import { Box, Text, Link, VStack, Code, Grid } from '@chakra-ui/react';
+import { ColorModeSwitcher } from '../components/ColorModeSwitcher';
 
 export default function Home() {
   return (
